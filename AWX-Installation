@@ -63,7 +63,7 @@ awx_alternate_dns_servers="8.8.8.8,8.8.4.4"
 project_data_dir="/var/lib/awx/projects"
 
 
-## Note if u get error regarding python or docker and ansible_python_interpreter that install this
+## Note if u get error regarding python or docker and ansible_python_interpreter then install this
 << pip3 install docker
 << pip3 install docker-compose
 
